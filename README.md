@@ -1,24 +1,12 @@
 
 ### Hi there, I'm denis 👋
--I'm Web and Android Developer ⚡
--I love  Backend stuffs **Laravel** ❤️
--i have some skills in *PHP* and *Java*.😄
--🌱Am currentry learning DevOps & Golang 🤔
+- 🔭 I'm Web and Android Developer ⚡
+- 😄i have some skills in *PHP* and *Java*.
+- ⚡ Fun fact: I love  Backend stuffs **Laravel** ❤️
+- 🌱 I’m currently learning DevOps & Golang 🤔
+- 💬 Ask me about data structures & algorithims ✔️
+- 👯 for fun discussion...follow me on..
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- ### Ask me about 💬
- -data structures & algorithims ✔️
-### You can follow me 📫 
  -[Twitter](https://twitter.com/denniske992)
  -[linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/) for fun discussions...👯     
  
