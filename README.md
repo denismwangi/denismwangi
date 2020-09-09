@@ -10,6 +10,15 @@ I love  Laravel** 😄
 
 You can follow me on [Twitter](https://twitter.com/denniske992) for fun discussions...
 
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=denismwangi&count_private=true&show_icons=true&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&hide=html&layout=compact" /></td>
+  </tr>   
+</table>
+</center>
+
 
 🔭 Stay tuned !
 
