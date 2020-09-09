@@ -1,7 +1,7 @@
 
 ### Hi there, I'm denis 👋
 
-[![denis's github stats]()](https://github.com/amilamen/github-readme-stats)
+[![denis github stats](https://github-readme-stats.vercel.app/api?username=denismwangi)](https://github.com/denismwangi/github-readme-stats)
 
 I'm web and Android 🤓🤓**Laravel**🤓🤓 with some skills in *PHP* and *Java*. 
 
