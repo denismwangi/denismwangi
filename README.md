@@ -1,6 +1,6 @@
 
 ### Hi there, I'm denis 👋
-I'm web and Android Developer ⚡
+I'm Web and Android Developer ⚡
 
 I love  **Laravel**❤️
 
