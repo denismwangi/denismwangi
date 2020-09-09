@@ -8,10 +8,10 @@ i have some skills in *PHP* and *Java*.😄
 
 🌱Am currentry learning DevOps & Golang 🤔
 
-💬 ###Ask me about
+ ###Ask me about💬
  data structures & algorithims  ✅
 
-📫 ### Get in touch
+### Get in touch📫 
 
 You can follow me on [Twitter](https://twitter.com/denniske992)denismwangi) for fun discussions...👯
                      [linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/)
