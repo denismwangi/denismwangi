@@ -1,7 +1,7 @@
 
-### Hi there, I'm Amen 👋
+### Hi there, I'm denis 👋
 
-[![Amen's github stats](https://github-readme-stats.vercel.app/api?denismwangi=amilamen&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/amilamen/github-readme-stats)
+[![denis's github stats]()](https://github.com/amilamen/github-readme-stats)
 
 I'm web and Android 🤓🤓**Laravel**🤓🤓 with some skills in *PHP* and *Java*. 
 
