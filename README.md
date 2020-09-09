@@ -10,9 +10,9 @@ i have some skills in *PHP* and *Java*.😄
 
  ### Ask me about 💬
  data structures & algorithims ✔️
-### Get in touch 📫 
-You can follow me on [Twitter](https://twitter.com/denniske992) denismwangi for fun discussions...👯     
-                     [linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/) Linkedin
+### You can follow me 📫 
+ [Twitter](https://twitter.com/denniske992) [linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/) for fun discussions...👯     
+ 
 <center>
   <table>
   <tr>
