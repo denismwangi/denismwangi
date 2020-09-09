@@ -4,7 +4,7 @@
 - 😄i have some skills in *PHP* and *Java*.
 - ⚡ Fun fact: I love  Backend stuffs **Laravel** ❤️
 - 🌱 I’m currently learning DevOps & Golang 🤔
-- 💬 Ask me about data structures & algorithims ✔️
+- 💬 Ask me about data structures & algorithms ✔️
 - 👯 for fun discussion...follow me on..
 
 <a href="https://twitter.com/denniske992">
