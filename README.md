@@ -1,21 +1,15 @@
-### Hi there 👋
-
 
 ### Hi there, I'm Amen 👋
 
-[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/amilamen/github-readme-stats)
+[![Amen's github stats](https://github-readme-stats.vercel.app/api?denismwangi=amilamen&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/amilamen/github-readme-stats)
 
-I'm developer fullstack 🤓🤓**JavaScript**🤓🤓 with some skills in *PHP* and *Java*. 
+I'm web and Android 🤓🤓**Laravel**🤓🤓 with some skills in *PHP* and *Java*. 
 
-I work at [**Vyconsulting**](https://vyconsulting-group.com) (@vy-group) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
+I love  Laravel** 😄 
 
-My favourite stack in front-end is **Ionic - Angular - Capacitor/Cordova** because *I ❤️ mobile development as much as web development* and for back-end I use **Nestjs or Laravel** 😄 
 
-I forget 🤔 I'm firstly 🤓🤓**Electronics and Embedded Systems Engineer**🤓🤓 with focus on *IOT*.
+You can follow me on [Twitter](https://twitter.com/denniske992) for fun discussions...
 
-You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussions...
-
-Happy to read your resume also on your profile.
 
 🔭 Stay tuned !
 
