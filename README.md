@@ -8,7 +8,7 @@
 - 👯 for fun discussion...follow me on..
 
 <a href="https://twitter.com/denniske992">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/" />
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
 </a>
 
 <br />
