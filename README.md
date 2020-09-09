@@ -11,7 +11,7 @@
   <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
 </a>
 <a href="https://twitter.com/denniske992">
-  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/Linkedin.svg" />
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/Linked.png" />
 </a>
 <br />
 <center>
