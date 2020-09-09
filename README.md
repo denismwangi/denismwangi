@@ -1,14 +1,13 @@
 
 ### Hi there, I'm denis 👋
+I'm web and Android Developer ⚡
 
-[![denis github stats](https://github-readme-stats.vercel.app/api?username=denismwangi)](https://github.com/denismwangi/github-readme-stats)
+I love  Laravel** 😄 with some skills in *PHP* and *Java*.
 
-I'm web and Android 🤓🤓**Laravel**🤓🤓 with some skills in *PHP* and *Java*. 
-
-I love  Laravel** 😄 
+Am currentry learning DevOps 🤔
 
 
-You can follow me on [Twitter](https://twitter.com/denniske992) for fun discussions...
+You can follow me on [Twitter](https://twitter.com/denniske992) for fun discussions...👯
 
 <center>
   <table>
