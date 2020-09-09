@@ -2,7 +2,9 @@
 ### Hi there, I'm denis 👋
 I'm web and Android Developer ⚡
 
-I love  Laravel** 😄 with some skills in *PHP* and *Java*.
+I love  **Laravel**❤️
+
+i have some skills in *PHP* and *Java*.😄
 
 Am currentry learning DevOps 🤔
 
