@@ -1,15 +1,15 @@
 
 ### Hi there, I'm denis 👋
-I'm Web and Android Developer ⚡
-I love  Backend stuffs **Laravel** ❤️
-i have some skills in *PHP* and *Java*.😄
-🌱Am currentry learning DevOps & Golang 🤔
+-I'm Web and Android Developer ⚡
+-I love  Backend stuffs **Laravel** ❤️
+-i have some skills in *PHP* and *Java*.😄
+-🌱Am currentry learning DevOps & Golang 🤔
 
  ### Ask me about 💬
- data structures & algorithims ✔️
+ -data structures & algorithims ✔️
 ### You can follow me 📫 
-
- [Twitter](https://twitter.com/denniske992) [linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/) for fun discussions...👯     
+ -[Twitter](https://twitter.com/denniske992)
+ -[linkedin](https://www.linkedin.com/in/dennis-mwangi-2089aa176/) for fun discussions...👯     
  
 <center>
   <table>
