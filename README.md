@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://chat.whatsapp.com/Kq3tAcvhzKkK6oNmgf0oQ9
+
+https://chat.whatsapp.com/CWDGbrhKqGu5PFTsbbwYeG
