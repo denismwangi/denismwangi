@@ -1,9 +1,7 @@
 
 ### Hi there, I'm denis 👋
-- 🔭 I'm Web and Android Developer ⚡
-- 😄i have some skills in *PHP* and *Java*.
-- ⚡ Fun fact: I love  Backend stuffs **Laravel** ❤️
-- 💬 Ask me about data structures & algorithms ✔️
+-  I'm Web and Android Developer 
+
 - 👯 for fun discussion...follow me on..
 
 <a href="https://twitter.com/denniske992">
