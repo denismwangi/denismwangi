@@ -3,7 +3,7 @@
 -  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dennis-mwangi-2089aa176/">
-
+-  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/Linkedin.svg" />
 </a>
 <br/>
 <br/>
