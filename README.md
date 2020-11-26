@@ -1,7 +1,3 @@
-
-### Hi there, I'm denis 👋
--  I'm Web and Android Developer 
-
 - 👯 for fun discussion...follow me on..
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=denismwangi" alt="" /> </p>
 <a href="https://twitter.com/denniske992">
