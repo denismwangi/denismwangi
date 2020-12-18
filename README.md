@@ -13,17 +13,6 @@
 |js pojects|https://github.com/denismwangi/Javascripts-Projects|Js|
 |jokes generator|https://github.com/denismwangi/Jokes-generator|js|
 
-
-
-
-
-- 👯 for fun discussion...follow me on..
-<a href="https://twitter.com/denniske992">
--  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dennis-mwangi-2089aa176/">
--  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/linked.png" />
-</a>
 <br/>
 <br/>
 <center>
@@ -33,7 +22,17 @@
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&hide=html&layout=compact" /></td>
   </tr>   
 </table>
-</center>
+
+- 👯 for fun discussion...follow me on..
+<a href="https://twitter.com/denniske992">
+-  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dennis-mwangi-2089aa176/">
+-  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/linked.png" />
+</a>
+<br/>
+
+
 
 
 🔭 Stay tuned !
@@ -43,11 +42,4 @@
 <!--
 **denismwangi/denismwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### Projects
 
-| Name | URL | Language |
-|-|-|-|
-|Laravel Api|https://github.com/denismwangi/laravel-8x-API|PHP|
-
-
-.
