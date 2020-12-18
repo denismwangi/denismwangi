@@ -1,7 +1,7 @@
 
 <!--
 #### Projects
-!>
+
 | Name | URL | Language |
 |-|-|-|
 |Laravel Api|https://github.com/denismwangi/laravel-8x-API|PHP|
@@ -14,6 +14,7 @@
 |sako|https://github.com/denismwangi/Sako|kotlin|
 |js pojects|https://github.com/denismwangi/Javascripts-Projects|Js|
 |jokes generator|https://github.com/denismwangi/Jokes-generator|js|
+-->
 
 <br/>
 <br/>
