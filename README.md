@@ -25,7 +25,7 @@
    <td>  <img width="350px" length="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/></td> <br/>
 <!--Most Used Languages-->
   <td><img width="400px" length="30px" align="left" src="https://github-readme-stats.vercel.app/api?username=denismwangi&count_private=true&show_icons=true&layout=compact" />
-https://github-readme-stats.vercel.app/api/top-langs/?username=username=denismwangi&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&layout=compact&theme=radical
 </td>
   </tr>  
    
