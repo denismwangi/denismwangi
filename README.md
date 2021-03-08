@@ -15,7 +15,7 @@
 |js pojects|https://github.com/denismwangi/Javascripts-Projects|Js|
 |jokes generator|https://github.com/denismwangi/Jokes-generator|js|
 -->
-
+<!--
 <br/>
 <br/>
 <center>
@@ -24,13 +24,13 @@
   <td><img width="400px" length="30px" align="left" src="https://github-readme-stats.vercel.app/api?username=denismwangi&count_private=true&show_icons=true&layout=compact" /></td>
  <td>  <img width="350px" length="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/></td>
 </table>
- 
+ -->
  <!--    <br/>
 <!--Most Used Languages-->
  
 <!--<td>https://github-readme-stats.vercel.app/api/top-langs/?username=denismwangi&layout=compact&theme=radical</td> -->
 
-
+<!--
 - 👯 for fun discussion...follow me on..
 <a href="https://twitter.com/@den_lyd">
 -  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/denismwangi/denismwangi/master/twitter.svg" />
@@ -43,7 +43,7 @@
 
 <br/>
 <br/>
-
+-->
 
 - 🔭 Stay tuned !
 
