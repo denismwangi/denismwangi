@@ -45,7 +45,7 @@
 <br/>
 -->
 
-- 🔭 I Love Deadlines!
+🔭 I Love Deadlines!
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" />
 
